@@ -1,8 +1,7 @@
-# comp116
+# COMP116: Computer Systems Security
 
-** README for COMP116 ** 
-** By: Hande Guven ** 
-** Date: 11/21/2018 **
+## By: Hande Guven
+## Date: 11/21/2018 
 
 This is the repository for my work in COMP116: Computer Systems Security in Spring 2018. 
 
